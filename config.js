@@ -291,6 +291,9 @@
           },
           distance: {
             url: 'https://gis-utils.databridge.phila.gov/arcgis/rest/services/Utilities/Geometry/GeometryServer/distance'
+          },
+          geometryServer: {
+            url: 'https://gis-utils.databridge.phila.gov/arcgis/rest/services/Utilities/Geometry/GeometryServer/'
           }
         }
       },
